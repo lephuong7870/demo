@@ -1,1 +1,1 @@
-# demo
+# demo Apache Hive
